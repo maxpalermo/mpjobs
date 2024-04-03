@@ -1,2 +1,5 @@
-# mpaddressprint
-Prestashop module. Shows enhanced customer fields and Google Maps in both address tabs.
+# mpjobs
+
+Prestashop module.
+
+Manage Jobs information for customers care and profilation.
