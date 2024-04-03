@@ -1,2 +1,2 @@
-# mpjobs
-Modulo Prestashop: Gestione Professioni cliente
+# mpaddressprint
+Prestashop module. Shows enhanced customer fields and Google Maps in both address tabs.
